@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/hello_glsl.vert</file>
+        <file>shaders/hello_glsl.frag</file>
+        <file>shaders/wavemotion.vert</file>
+        <file>shaders/common.vert.inc</file>
+        <file>shaders/asteroid.frag</file>
+        <file>shaders/asteroid.vert</file>
+        <file>shaders/commonlight.vert.inc</file>
+        <file>shaders/commonlightmatdefs.inc</file>
+        <file>shaders/commonlightmodels.inc</file>
+        <file>shaders/texture.frag</file>
+        <file>shaders/texture.vert</file>
+    </qresource>
+</RCC>
